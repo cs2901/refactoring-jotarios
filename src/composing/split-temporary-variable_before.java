@@ -1,4 +1,4 @@
-double temp = 2 * (height + width);
-System.out.println(temp);
-temp = height * width;
-System.out.println(temp);
+double perimeter = 2 * (height + width);
+double area = height * width;
+System.out.println(perimeter);
+System.out.println(area);
